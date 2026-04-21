@@ -158,7 +158,6 @@ It reflects a practical approach to network design where both logical and physic
 - Cisco Packet Tracer (Network Simulation & Validation)  
 - Cisco IOS CLI (Configuration & Troubleshooting)  
 - Canva (Visual Design & Presentation Layout)
-- 
 ---
 
 ## 📦 Modular Networks
