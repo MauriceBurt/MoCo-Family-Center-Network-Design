@@ -1,7 +1,7 @@
-Router#show run 
+Router#show run
 Building configuration...
 
-Current configuration : 2322 bytes
+Current configuration : 2252 bytes
 !
 version 15.1
 no service timestamps log datetime msec
@@ -119,7 +119,6 @@ access-list 100 deny ip 192.168.50.0 0.0.0.255 192.168.10.0 0.0.0.255
 access-list 100 deny ip 192.168.50.0 0.0.0.255 192.168.20.0 0.0.0.255
 access-list 100 deny ip 192.168.50.0 0.0.0.255 192.168.30.0 0.0.0.255
 access-list 100 deny ip 192.168.50.0 0.0.0.255 192.168.40.0 0.0.0.255
-access-list 100 deny ip 192.168.50.0 0.0.0.255 192.168.50.0 0.0.0.255
 access-list 100 permit ip any any
 !
 !
